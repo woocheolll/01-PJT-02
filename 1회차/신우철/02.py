@@ -18,7 +18,7 @@ def vote_average_movies():
     return list
 
 
-# 아래의 코드는 수정하지 않습니다.
+# 아래의 코드는 수정하지 않습니다..
 if __name__ == '__main__':
     """
     popular 영화목록중 vote_average가 8 이상인 영화목록 반환
